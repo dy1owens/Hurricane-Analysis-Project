@@ -1,2 +1,2 @@
 # Hurricane-Analysis-Project
-This project modifies and analyzes hurricane data
+This project cleans, compiles, and analyzes hurricane data
